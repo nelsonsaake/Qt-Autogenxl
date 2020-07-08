@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>settings.json</file>
+        <file>../build-autogen-Desktop_Qt_5_14_1_MinGW_64_bit-Debug/settings.json</file>
+    </qresource>
+</RCC>
